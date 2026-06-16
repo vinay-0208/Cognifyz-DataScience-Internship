@@ -13,3 +13,14 @@ This repository contains my completed Level 1 and Level 2 tasks for the Cognifyz
 - Matplotlib
 - Seaborn
 - Folium
+## Dataset
+
+The dataset contains restaurant information such as:
+- Restaurant Name
+- City
+- Country Code
+- Aggregate Rating
+- Price Range
+- Online Delivery
+- Table Booking
+- Latitude and Longitude
