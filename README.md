@@ -24,3 +24,12 @@ The dataset contains restaurant information such as:
 - Online Delivery
 - Table Booking
 - Latitude and Longitude
+
+## Key Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Statistical Analysis
+- Geospatial Analysis
+- Feature Engineering
+- Data Visualization
